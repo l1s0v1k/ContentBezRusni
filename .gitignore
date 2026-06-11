@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальне середовище (якщо буде)
+venv/
+env/
+.venv/
+
+# IDE та редактори
+.idea/
+.vscode/
+*.swp
+
+# Кешовані файли скрипта
+global_blacklist.txt
